@@ -1,2 +1,2 @@
-# Pipeline_dados_1
-Essa foi minha primeira experiência criando um pipeline de dados, dando início aos meus estudos de Engenharia de Dados. 
+# Etl-pipeline-python-sql
+My first end-to-end ETL pipeline built with Python and SQL for data engineering studies.
